@@ -1,0 +1,23 @@
+{
+    "name": "Boids.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:27619889b8ba8c24980f49ee34dbb44a",
+        "GUID:0acc523941302664db1f4e527237feb3",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:74d692ce92764dd439666cf57438b2ff",
+        "GUID:8b6f36eea169a2c41bcb5cc1259f761a",
+        "GUID:a1bf0d756dbfa3d41872c7459a1b8a07"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
