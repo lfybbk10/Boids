@@ -1,4 +1,4 @@
-﻿# Boids Research
+﻿# Boids
 
 Pet project, developed for excercising in following concepts:
 
